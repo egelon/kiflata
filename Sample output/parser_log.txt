@@ -1,0 +1,370 @@
+﻿Error on: http://www.boohoo.com/restofworld/invt/azz40442
+URL given to parser: http://www.boohoo.com/europe/clothing/dresses/icat/going-out-dresses/carrie-sequin-strappy-bodycon-dress/invt/azz40442
+Exception message: 
+1
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz40950
+URL given to parser: http://www.boohoo.com/europe/clothing/dresses/icat/evening-dresses/lizzie-sequin-halterneck-bodycon-dress/invt/azz40950
+Exception message: 
+For input string: "1,35"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz38681
+URL given to parser: http://www.boohoo.com/europe/clothing/dresses/icat/party-dresses/poppy-multi-sequin-bodycon-dress/invt/azz38681
+Exception message: 
+For input string: "1,05"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz61592
+URL given to parser: http://www.boohoo.com/europe/clothing/dresses/icat/day-dresses/iona-baroque-print-long-sleeve-bodycon-dress/invt/azz61592
+Exception message: 
+Unable to locate element: {"method":"css selector","selector":"h1[id^=comp-name]"}
+Command duration or timeout: 27 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.35.0', revision: 'c916b9d', time: '2013-08-12 15:42:01'
+System info: os.name: 'Windows 8', os.arch: 'x86', os.version: '6.2', java.version: '1.7.0_45'
+Session ID: 8061dc33-13c1-4f73-9e93-da1a77d45af4
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=true, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=24.0}]
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz44566
+URL given to parser: http://www.boohoo.com/europe/clothing/dresses/icat/day-dresses/lara-brushed-knit-zig-zag-print-skater-dress/invt/azz44566
+Exception message: 
+1
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz42555
+URL given to parser: http://www.boohoo.com/europe/clothing/dresses/icat/going-out-dresses/honey-neon-paisley-ruffle-sleeve-shift-dress/invt/azz42555
+Exception message: 
+1
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz38374
+URL given to parser: http://www.boohoo.com/europe/clothing/dresses/icat/going-out-dresses/melaine-velvet-skater-dress/invt/azz38374
+Exception message: 
+1
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz41764
+URL given to parser: http://www.boohoo.com/europe/clothing/dresses/icat/day-dresses/sally-contrast-skater-dress/invt/azz41764
+Exception message: 
+1
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz41181
+URL given to parser: http://www.boohoo.com/europe/clothing/dresses/icat/new-in/hayley-scallopped-sequin-and-beaded-shift-dress/invt/azz41181
+Exception message: 
+For input string: "1,05"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz41457
+URL given to parser: http://www.boohoo.com/europe/clothing/dresses/icat/new-in/jules-all-over-cluster-sequin-smock-dress/invt/azz41457
+Exception message: 
+For input string: "1,05"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz42514
+URL given to parser: http://www.boohoo.com/europe/clothing/dresses/icat/day-dresses/skylar-mix-and-match-print-monometric-shift-dress/invt/azz42514
+Exception message: 
+1
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz41013
+URL given to parser: http://www.boohoo.com/europe/clothing/dresses/icat/day-dresses/martha-tartan-pu-panel-skater-dress/invt/azz41013
+Exception message: 
+1
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz42239
+URL given to parser: http://www.boohoo.com/europe/clothing/dresses/icat/tv-advert/amelia-lurex-foil-dress/invt/azz42239
+Exception message: 
+For input string: "1,05"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz42269
+URL given to parser: http://www.boohoo.com/europe/clothing/dresses/icat/day-dresses/tina-dogtooth-skater-dress/invt/azz42269
+Exception message: 
+1
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz41225
+URL given to parser: http://www.boohoo.com/europe/clothing/dresses/icat/new-in/aimee-ethnic-print-capped-sleeve-dress/invt/azz41225
+Exception message: 
+1
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz36106
+URL given to parser: http://www.boohoo.com/europe/clothing/dresses/icat/new-in/charlie-roll-neck-stripe-knitted-dress/invt/azz36106
+Exception message: 
+Timed out waiting for page load.
+Command duration or timeout: 1800.04 seconds
+Build info: version: '2.35.0', revision: 'c916b9d', time: '2013-08-12 15:42:01'
+System info: os.name: 'Windows 8', os.arch: 'x86', os.version: '6.2', java.version: '1.7.0_45'
+Session ID: 520fe4ac-c957-4b79-b206-b35101f83ef5
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=true, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=24.0}]
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz41661
+URL given to parser: http://www.boohoo.com/europe/clothing/dresses/icat/day-dresses/talia-animal-print-belted-skater-dress/invt/azz41661
+Exception message: 
+Error communicating with the remote browser. It may have died.
+Build info: version: '2.35.0', revision: 'c916b9d', time: '2013-08-12 15:42:01'
+System info: os.name: 'Windows 8', os.arch: 'x86', os.version: '6.2', java.version: '1.7.0_45'
+Driver info: driver.version: RemoteWebDriver
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz38370
+URL given to parser: http://www.boohoo.com/europe/clothing/dresses/icat/new-in/dottie-double-layer-dress/invt/azz38370
+Exception message: 
+Error communicating with the remote browser. It may have died.
+Build info: version: '2.35.0', revision: 'c916b9d', time: '2013-08-12 15:42:01'
+System info: os.name: 'Windows 8', os.arch: 'x86', os.version: '6.2', java.version: '1.7.0_45'
+Driver info: driver.version: RemoteWebDriver
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz42242
+URL given to parser: http://www.boohoo.com/europe/clothing/dresses/icat/preview/boutique-verity-sequin-open-shoulder-maxi-dress/invt/azz42242
+Exception message: 
+For input string: "1,05"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz37523
+URL given to parser: http://www.boohoo.com/europe/clothing/dresses/icat/maxi-dresses/amy-beaded-waist-and-neck-trim-maxi-dress/invt/azz37523
+Exception message: 
+For input string: "1,05"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz41180
+URL given to parser: http://www.boohoo.com/europe/clothing/dresses/icat/new-in/rhian-aztec-sequin-design-shift-dress/invt/azz41180
+Exception message: 
+For input string: "1,05"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz40326
+URL given to parser: http://www.boohoo.com/europe/clothing/dresses/icat/day-dresses/clarice-ditsy-dark-floral-v-back-smock-dress/invt/azz40326
+Exception message: 
+1
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz42911
+URL given to parser: http://www.boohoo.com/europe/clothing/dresses/icat/day-dresses/jada-open-shoulder-multi-floral-dress/invt/azz42911
+Exception message: 
+1
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz41343
+URL given to parser: http://www.boohoo.com/europe/clothing/dresses/icat/new-in/olive-animal-metallic-jacquard-bustier-prom-dress/invt/azz41343
+Exception message: 
+For input string: "1,05"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz41662
+URL given to parser: http://www.boohoo.com/europe/clothing/dresses/icat/day-dresses/lissie-blurred-print-belted-skater-dress/invt/azz41662
+Exception message: 
+1
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz39632
+URL given to parser: http://www.boohoo.com/europe/clothing/dresses/icat/day-dresses/esme-checked-short-sleeve-smock-dress/invt/azz39632
+Exception message: 
+1
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz38210
+URL given to parser: http://www.boohoo.com/europe/clothing/dresses/icat/new-in/carrie-cowl-back-lace-midi-dress/invt/azz38210
+Exception message: 
+For input string: "1,05"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz43775
+URL given to parser: http://www.boohoo.com/europe/clothing/dresses/icat/boutique/boutique-robyn-brocade-pvc-trim-prom-dress/invt/azz43775
+Exception message: 
+For input string: "1,25"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz42802
+URL given to parser: http://www.boohoo.com/europe/clothing/dresses/icat/preview/boutique-tiffany-patchwork-sequin-maxi-dress/invt/azz42802
+Exception message: 
+For input string: "1,25"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz41667
+URL given to parser: http://www.boohoo.com/europe/clothing/dresses/icat/day-dresses/sammie-floral-print-belted-shirt-dress/invt/azz41667
+Exception message: 
+1
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz41056
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/kimonos/catherine-paisley-print-tassle-kimono/invt/azz41056
+Exception message: 
+Unable to locate element: {"method":"css selector","selector":"h1[id^=comp-name]"}
+Command duration or timeout: 141 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.35.0', revision: 'c916b9d', time: '2013-08-12 15:42:01'
+System info: os.name: 'Windows 8', os.arch: 'x86', os.version: '6.2', java.version: '1.7.0_45'
+Session ID: 286cb017-85ed-4e81-a158-329f4b52897a
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=true, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=24.0}]
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz47886
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/all-coats/maria-quilted-pu-jacket-with-fur-collar/invt/azz47886
+Exception message: 
+For input string: "1,35"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz47381
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/all-coats/emily-pu-collar-quilted-biker-coat/invt/azz47381
+Exception message: 
+For input string: "1,25"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz46998
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/tv-advert/boutique-frankie-round-neck-fur-coat/invt/azz46998
+Exception message: 
+For input string: "1,95"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz47380
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/biker-jackets/sammie-faux-fur-collar-pu-biker-jacket/invt/azz47380
+Exception message: 
+For input string: "1,25"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz36716
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/luxe-grunge/jessica-aztec-fur-trim-hood-drawstring-parka/invt/azz36716
+Exception message: 
+For input string: "1,65"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz40207
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/biker-jackets/talia-zip-detail-pu-biker-jacket/invt/azz40207
+Exception message: 
+For input string: "1,05"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz38659
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/all-coats/tallie-pu-sleeve-quilted-bomber-jacket/invt/azz38659
+Exception message: 
+For input string: "1,05"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz40301
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/all-coats/holly-knitted-sleeve-parka/invt/azz40301
+Exception message: 
+For input string: "1,25"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz47883
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/luxe-grunge/lola-fur-collar-belted-padded-coat/invt/azz47883
+Exception message: 
+For input string: "1,05"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz44778
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/coats-and-jackets/fiona-pu-bikerjacket-with-fur-collar/invt/azz44778
+Exception message: 
+For input string: "1,05"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz47267
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/winter-essentials/zarah-black-fur-shawl-collar-boucle-cocoon-coat/invt/azz47267
+Exception message: 
+For input string: "1,65"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz47001
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/all-coats/wendy-high-neck-box-pleat-coat/invt/azz47001
+Exception message: 
+For input string: "1,05"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz36761
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/luxe-grunge/mia-faux-fur-trim-parka/invt/azz36761
+Exception message: 
+For input string: "1,65"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz39209
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/all-coats/katie-pu-trim-waterfall-jacket/invt/azz39209
+Exception message: 
+For input string: "1,05"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz47429
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/all-coats/charlotte-fur-trim-hood-crop-parka/invt/azz47429
+Exception message: 
+For input string: "1,25"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz47363
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/luxe-grunge/cara-camo-print-sherpa-hood-parka/invt/azz47363
+Exception message: 
+For input string: "1,35"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz47272
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/all-coats/eva-shearling-collar-biker-coat/invt/azz47272
+Exception message: 
+For input string: "1,65"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz47890
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/all-coats/chara-belted-quilted-trench-coat/invt/azz47890
+Exception message: 
+For input string: "1,25"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz40006
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/all-coats/demi-padded-hooded-parka/invt/azz40006
+Exception message: 
+For input string: "1,35"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz39913
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/all-coats/taylor-fur-hood-tartan-trim-wool-mix-coat/invt/azz39913
+Exception message: 
+For input string: "1,65"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz45820
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/all-coats/liz-textured-wool-mix-biker-coat/invt/azz45820
+Exception message: 
+For input string: "1,95"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz47256
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/all-coats/zarah-black-fur-shawl-collar-boucle-cocoon-coat/invt/azz47256
+Exception message: 
+For input string: "1,65"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz39587
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/luxe-grunge/becca-stripe-drawstring-furtrim-hood-coat/invt/azz39587
+Exception message: 
+For input string: "1,35"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz47366
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/all-coats/aimee-peplum-hem-detachable-leopard-fur-collar-coat/invt/azz47366
+Exception message: 
+For input string: "1,35"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz47181
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/all-coats/corinna-textured-wool-mix-peplum-hem-duffle-coat/invt/azz47181
+Exception message: 
+For input string: "1,51"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz40975
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/biker-jackets/brianna-quilted-pu-biker-jacket/invt/azz40975
+Exception message: 
+For input string: "1,35"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz40049
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/all-coats/sammie-pu-panel-biker-style-jacket/invt/azz40049
+Exception message: 
+For input string: "1,25"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz40973
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/biker-jackets/carmel-pu-biker-jacket/invt/azz40973
+Exception message: 
+For input string: "1,05"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz47240
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/all-coats/harriet-quilted-hooded-duffle-coat/invt/azz47240
+Exception message: 
+For input string: "1,25"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz47412
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/all-coats/harriet-quilted-duffle-coat/invt/azz47412
+Exception message: 
+For input string: "1,25"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz40303
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/new-in/fearne-fur-hood-high--neck-paddded-coat/invt/azz40303
+Exception message: 
+For input string: "1,65"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz47418
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/all-coats/jamelia-bonded-sherpa-biker-coat/invt/azz47418
+Exception message: 
+For input string: "1,75"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz41605
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/kimonos/daphne-folk-print-kimono/invt/azz41605
+Exception message: 
+Unable to locate element: {"method":"css selector","selector":"h1[id^=comp-name]"}
+Command duration or timeout: 28 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.35.0', revision: 'c916b9d', time: '2013-08-12 15:42:01'
+System info: os.name: 'Windows 8', os.arch: 'x86', os.version: '6.2', java.version: '1.7.0_45'
+Session ID: 5f47115c-96a8-4341-bd08-441bbaa12a56
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=true, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=24.0}]
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz40979
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/biker-jackets/beth-collarless-quilted-pu-biker-jacket/invt/azz40979
+Exception message: 
+For input string: "1,35"
+*====================*
+Error on: http://www.boohoo.com/restofworld/invt/azz47888
+URL given to parser: http://www.boohoo.com/europe/clothing/coats+jackets/icat/all-coats/annie-fairsle-yoke-gilet/invt/azz47888
+Exception message: 
+Unable to locate element: {"method":"css selector","selector":"h1[id^=comp-name]"}
+Command duration or timeout: 27 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.35.0', revision: 'c916b9d', time: '2013-08-12 15:42:01'
+System info: os.name: 'Windows 8', os.arch: 'x86', os.version: '6.2', java.version: '1.7.0_45'
+Session ID: 5f47115c-96a8-4341-bd08-441bbaa12a56
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, databaseEnabled=true, cssSelectorsEnabled=true, javascriptEnabled=true, acceptSslCerts=true, handlesAlerts=true, browserName=firefox, browserConnectionEnabled=true, nativeEvents=true, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=24.0}]
+*====================*
